@@ -8,7 +8,7 @@ Incorrect quote generators are creative tools that produce random, often funny o
 
 ## 🌐 Featured Resource
 
-- [160+ Incorrect Quotes Generators](https://griefquote.com/incorrect-quotes-generator/)  
+- [Incorrect Quotes Generators](https://griefquote.com/incorrect-quotes-generator/)  
   A detailed article showcasing the top incorrect quote generators online — covering both AI-powered and fan-made tools that create unexpected character dialogue.
 
 ## 🧠 Why It’s Interesting
